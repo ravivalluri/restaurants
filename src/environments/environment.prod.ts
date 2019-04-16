@@ -1,11 +1,11 @@
 export const environment = {
   production: true,
-  config : {
-    apiKey: 'AIzaSyBWoWMZANQL0NeVjldYJKFN1dTpQD51HFg',
-    authDomain: 'myionicshop-693bc.firebaseapp.com',
-    databaseURL: 'https://myionicshop-693bc.firebaseio.com',
-    projectId: 'myionicshop-693bc',
-    storageBucket: 'myionicshop-693bc.appspot.com',
-    messagingSenderId: '636444625157'
+  config: {
+    apiKey: 'AIzaSyAv7s754raoPrfUhj5ylRvzOrrINYxIJA4',
+    authDomain: 'restaurants-6f1c9.firebaseapp.com',
+    databaseURL: 'https://restaurants-6f1c9.firebaseio.com',
+    projectId: 'restaurants-6f1c9',
+    storageBucket: 'restaurants-6f1c9.appspot.com',
+    messagingSenderId: '484199588700'
   }
 };

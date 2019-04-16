@@ -1,0 +1,38 @@
+ion-item {
+    --ion-item-background: rgba(0, 0, 0, 0);
+}
+
+ion-input {
+  background-color: rgb(236, 219, 164);
+  --padding-start:20px;
+  --placeholder-color: rgb(12, 1, 1);
+  border-top-left-radius: 20px; border-bottom-left-radius: 20px;border-top-right-radius: 20px;border-bottom-right-radius: 20px;
+  --color: white;
+}
+
+ion-input[name="name"] {
+  margin-top:50px
+}
+
+
+.input-margin{ 
+ margin-top: 10px;
+}
+
+ion-input[name="address"] {
+  margin-bottom:30px
+}
+
+
+
+
+ion-content {
+  background-image: url('../../../assets/images/login.jpg');
+  background-repeat: no-repeat;
+  background-size: 100% 100%;
+  background-position: center;
+  --background:  no-repeat center contain;
+}
+
+
+  

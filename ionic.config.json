@@ -1,0 +1,11 @@
+{
+  "name": "Restautants",
+  "integrations": {
+    "cordova": {}
+  },
+  "type": "angular",
+  "proxies": [{
+    "path": "/subscribeToTopic",
+    "proxyUrl": "https://null-myionicshop-693bc.cloudfunctions.net/subscribeToTopic"
+  }]
+}
